@@ -1,0 +1,28 @@
+_repo: Viimeinen-matka-b-Novelleja_71809
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lehtimäki, Konrad
+    alias: Lehtimaki, Konrad
+    birthdate: 1883
+    deathdate: 1937
+    gutenberg_agent_id: '43958'
+    url: http://www.gutenberg.org/2009/agents/43958
+    wikipedia: https://fi.wikipedia.org/wiki/Konrad_Lehtim%C3%A4ki
+description: ''
+gutenberg_issued: '2023-10-05'
+identifiers:
+  gutenberg: '71809'
+language: fi
+pgterms:marc905: 20230721102739lehtimki
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Viimeinen matka : $b Novelleja'
+url: http://www.gutenberg.org/ebooks/71809
